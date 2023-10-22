@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AIapiChatGPT.iml" filepath="$PROJECT_DIR$/.idea/AIapiChatGPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cameraSecurity/.idea/cameraSecurity.iml" filepath="$PROJECT_DIR$/../cameraSecurity/.idea/cameraSecurity.iml" />
       <module fileurl="file://$PROJECT_DIR$/../koncowy1/.idea/koncowy1.iml" filepath="$PROJECT_DIR$/../koncowy1/.idea/koncowy1.iml" />
     </modules>
   </component>
